@@ -1,0 +1,49 @@
+body {
+  color: black;
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-box {
+  text-align: left;
+  width: 30%;
+  margin-left: 35%;
+  border: 1px solid rgba(128, 128, 128, 0.275);
+  display: flex 50%;
+  flex-direction: column;
+  padding-left: 30px;
+}
+
+.logo {
+  padding: 20px;
+}
+
+.email {
+  width: 90%;
+}
+
+.password {
+  width: 90%;
+}
+
+.continue {
+  background-color: rgb(255, 204, 74);
+  width: 92.5%;
+  font-size: 18px;
+}
+
+.create-account {
+  background-color: rgb(199, 199, 199);
+  margin-left: 30px;
+  width: 32.5%;
+  font-size: 18px;
+}
+
+.forgot-password {
+  padding-left: 55%;
+}
+
+.footer-links {
+  margin: 20px;
+}
